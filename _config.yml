@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Vighnesh Prabhu"
-  avatar           : images/blog/zczdtRUC_400x400.jpeg
+  avatar           : /images/blog/zczdtRUC_400x400.jpeg
   bio              : "Java/Python developer"
   location         : "Sydney, Australia"
   email            :
